@@ -7,22 +7,22 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "pk~v9BEGQLR#aY6q3eyUFWRpvMmDVlnpvH8_Y0Uova6oKhAwsh1E4Xg.",
       "required": true,
       "value": ""
     },
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "too.",
       "required": false,
       "value": "PK-XMD"
     },
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": "..",
       "required": false,
       "value": "."
     },
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
+      "description": "public.",
       "required": false,
       "value": "public"
     },
